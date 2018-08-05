@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/alseid",
+		"value" : {
+			"aiFrames" : "alseidAI.png",
+			"portraitFrames" : "portraits/alseidportrait.png",
+			"staticFrames" : "staticalseid.png"	
+		}
+	}
+]

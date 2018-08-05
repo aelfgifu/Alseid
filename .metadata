@@ -1,0 +1,11 @@
+{
+  "tags" : "Species",
+  "author" : "Aelfgifu",
+  "description" : "This adds an elf/fairy like race to Starbound. Alseids were nymphs in Greek mythology who lived in glens and groves. Currently a work in progress.",
+  "friendlyName" : "Alseids",
+  "link" : "",
+  "name" : "Alseid",
+  "path" : ".",
+  "steamContentId" : "",
+  "version" : "0.1"
+}

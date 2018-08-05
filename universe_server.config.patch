@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/alseid",
+		"value" : [
+		    "/ships/alseid/alseidt0.structure",
+			"/ships/alseid/alseidt1.structure",
+			"/ships/alseid/alseidt2.structure",
+			"/ships/alseid/alseidt3.structure",
+			"/ships/alseid/alseidt4.structure",
+			"/ships/alseid/alseidt5.structure",
+			"/ships/alseid/alseidt6.structure",
+			"/ships/alseid/alseidt7.structure",
+			"/ships/alseid/alseidt8.structure"
+		]
+	}
+]
