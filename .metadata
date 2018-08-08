@@ -1,7 +1,8 @@
 {
   "tags" : "Species",
   "author" : "Aelfgifu",
-  "description" : "This adds an elf/fairy like race to Starbound. Alseids were nymphs in Greek mythology who lived in glens and groves. Currently a work in progress.",
+  "description" : "This adds an elf/fairy like race to Starbound. Alseids were nymphs in Greek mythology who lived in glens and groves. Currently a work in progress.
+  \n The Alseid body: Alseids are slightly taller than most species, with twiglike arms, sturdy feet, and tufted ears. They blend in well with forested areas, with skin in shades of bark and hair in shades of leaves.  Males are slightly broader through the trunk, have slightly taller ear tufts, and tend to have more vibrant colors.",
   "friendlyName" : "Alseids",
   "link" : "",
   "name" : "Alseid",
