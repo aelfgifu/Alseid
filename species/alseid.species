@@ -9,7 +9,7 @@
   "ouchNoises" : [ "/sfx/humanoid/BranchCracking-SoundBible.com-2062541157.ogg", "/sfx/humanoid/BranchCracking-SoundBible.com-2062541157.ogg" ],
   //recorded by Mike Koenig, from http://soundbible.com/518-Branch-Wood-Stress-Cracking.html under Attribution 3.0 license
   //needs to be lower in tone
-  "charGenTextLabels" : [ "Bark colour", "Leaf style", "Shirt", "Legwear", "Underwear", "Leaf colour", "Shirt colour", "Legwear colour", "ALSEID", "Personality" ],
+  "charGenTextLabels" : [ "Bark colour", "Leaf style", "Shirt", "Legwear", "Hair ties", "Leaf colour", "Shirt colour", "Legwear colour", "ALSEID", "Personality" ],
   "skull" : "/humanoid/alseid/dead.png",
   "effectDirectives" : "?replace=FFFFFFFF=d1ebd2?replace=9bd4ffFF=74a877?replace=31a6ffFF=18661c", //lighter to darker
   "defaultBlueprints" : {
