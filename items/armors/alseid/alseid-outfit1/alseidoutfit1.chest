@@ -1,12 +1,12 @@
 {
   "itemName" : "alseidoutfit1chest",
-  "price" : 0,
+  "price" : 10,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
   "description" : "A simple jacket, in case it gets a bit chilly.",
-  "shortdescription" : "Casual Cardigan",
+  "shortdescription" : "Alseid Casual Cardigan",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",
@@ -20,7 +20,7 @@
   },
   "colorOptions" : [
     // BLUE
-    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
+    { "ffca8a" : "bde2ee", "e0975c" : "9cbabd", "a85636" : "9cbabd", "6f2919" : "204041" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
